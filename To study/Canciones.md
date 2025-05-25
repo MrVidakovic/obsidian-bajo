@@ -1,0 +1,2 @@
+- [Foo Fighters - The Pretender](https://www.youtube.com/watch?v=nNou21znMGk)
+- [(SBL) 10 Greatest HAIR-METAL Bass Lines Of The 1980’s](https://youtu.be/xzLEJ8T24Hk?si=f-YUep4jSV0l__Hj)

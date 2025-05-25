@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "fa4505351b3eb430",
+    "type": "split",
+    "children": [
+      {
+        "id": "80b6be51e8000284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9584f9f7d531229b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canciones que quiero aprender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Canciones que quiero aprender"
+            }
+          },
+          {
+            "id": "94e608a4123c3e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To study/Licks y riffs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Licks y riffs"
+            }
+          },
+          {
+            "id": "d513d563e1f342b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Ultimate Practice Course for Bassists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Ultimate Practice Course for Bassists"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26f73261ca300b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a1f7cdedcc23a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a256ab0d3ec231b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e80097f107b27250",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3ce357ac9ccbf174",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "244de792f4f1c0d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3efd43d736457f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71d5f73ebb5a367d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Ultimate Practice Course for Bassists.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Ultimate Practice Course for Bassists"
+            }
+          },
+          {
+            "id": "754da2a46e8e28af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Ultimate Practice Course for Bassists.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Ultimate Practice Course for Bassists"
+            }
+          },
+          {
+            "id": "921a17e81f0644ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4a9378a65b7a95c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Ultimate Practice Course for Bassists.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Ultimate Practice Course for Bassists"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d513d563e1f342b5",
+  "lastOpenFiles": [
+    "To study/Técnica.md",
+    "To study/Licks y riffs.md",
+    "To study/Canciones.md",
+    "To study",
+    "The Ultimate Practice Course for Bassists.md",
+    "Welcome.md"
+  ]
+}
