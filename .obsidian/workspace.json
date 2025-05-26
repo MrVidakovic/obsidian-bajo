@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effects.md",
-                "mode": "source",
+                "file": "Courses/The Bass Technique Accelerator/Lesson 2 - Your Engine Room - Part 1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Effects"
+              "title": "Lesson 2 - Your Engine Room - Part 1"
             }
           }
         ],
@@ -200,9 +200,10 @@
   },
   "active": "d513d563e1f342b5",
   "lastOpenFiles": [
+    "Courses/The Ultimate Practice Course for Bassists.md",
+    "Courses/The Bass Technique Accelerator/Lesson 2 - Your Engine Room - Part 1.md",
     "Effects.md",
     "Courses",
-    "Courses/The Ultimate Practice Course for Bassists.md",
     "To study/Técnica.md",
     "To study/Licks y riffs.md",
     "To study/Canciones.md",
