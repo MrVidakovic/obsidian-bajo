@@ -1,2 +1,4 @@
 - [(BassBuzz) 7 bass riffs normal people actually find impressive](https://youtu.be/rSzg350xIao?si=PeKgOZ-NXl6G0FZL)
 - [(SBL) 15 Iconic ROCK Bass Intros of the 1980s](https://youtu.be/YRVFAYZEsjU?si=-_eO9NfA1Q08DJkj)
+- [(EllenPlaysBass) Top 10 metal bass lines](https://www.youtube.com/watch?v=cR33ZUy2wPM)
+- [(SBL) Rating 10 greatest bass lines of all time](https://www.youtube.com/watch?v=z2w4JljpuAo)
