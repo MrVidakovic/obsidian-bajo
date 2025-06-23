@@ -1,0 +1,2 @@
+- [(Talkingbass) Pentatonic Exercise](https://www.youtube.com/watch?v=7pZMl89DGOg&t=165s)
+- 
