@@ -2,3 +2,6 @@
 - [(SBL) 15 Iconic ROCK Bass Intros of the 1980s](https://youtu.be/YRVFAYZEsjU?si=-_eO9NfA1Q08DJkj)
 - [(EllenPlaysBass) Top 10 metal bass lines](https://www.youtube.com/watch?v=cR33ZUy2wPM)
 - [(SBL) Rating 10 greatest bass lines of all time](https://www.youtube.com/watch?v=z2w4JljpuAo)
+- [(SBL) 12 Disco icon bass lines](https://www.youtube.com/watch?v=gq5IMPjvWiw)
+- [(SBL) The bass genius of Pino Palladino](https://www.youtube.com/watch?v=lD84KMgCLu8)
+- 
