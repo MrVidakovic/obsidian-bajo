@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Presets"
             }
+          },
+          {
+            "id": "7e204ada6f402c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,17 +184,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c685ef4c9e7306f",
+  "active": "7e204ada6f402c7b",
   "lastOpenFiles": [
+    "Line6 Hx stomp XL/Presets.md",
+    "conflict-files-obsidian-git.md",
     "To study/Canciones.md",
     "To study/Técnica.md",
     "To study/Licks y riffs.md",
-    "Line6 Hx stomp XL/Presets.md",
     "To study/Ejercicios generales.md",
     "Effects.md",
     "Line6 Hx stomp XL",
     "Courses/The Bass Technique Accelerator/Lesson 2 - Your Engine Room - Part 1.md",
-    "conflict-files-obsidian-git.md",
     "Courses/The Ultimate Practice Course for Bassists.md",
     "Courses",
     "To study",
