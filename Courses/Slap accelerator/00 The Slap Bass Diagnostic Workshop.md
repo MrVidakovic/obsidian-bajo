@@ -8,3 +8,4 @@
 - Transition between slap & fingerstyle
 - Groove feel in musical context
 
+Canción recomendada por Scott: Sir Duke
